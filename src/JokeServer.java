@@ -1,8 +1,8 @@
 /*--------------------------------------------------------
 
-1. Saher Yakoub / 1/25/14
+1. Saher Yakoub - 1/25/14
 
-2. Java version used, if not the official version for the class:
+2. Java version used:
 
 build 1.8.0-b132
 
@@ -30,10 +30,9 @@ the server to the clients. For exmaple, if the server is running at
 
 5. List of files needed for running the program.
 
- a. checklist.html
- b. JokeServer.java
- c. JokeClient.java
- d. JokeClientAdmin.java
+ a. JokeServer.java
+ b. JokeClient.java
+ c. JokeClientAdmin.java
 
 5. Notes:
 
