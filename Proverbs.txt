@@ -1,0 +1,6 @@
+5
+Proverb A
+Proverb B
+Proverb C
+Proverb D
+Proverb E

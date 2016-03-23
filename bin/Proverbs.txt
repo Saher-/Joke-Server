@@ -1,0 +1,6 @@
+5
+A) Most good programmers do programming not because they expect to get paid, but because it is fun to program.
+B) There are two ways to write error-free programs; only the third one works.
+C) If something is worth doing once, it's worth building a tool to do it
+D) In theory, there ought to be no difference between theory and practice. In practice, there is.
+E) In computers world. if you're wrong, you're only off by one bit.

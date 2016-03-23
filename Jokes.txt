@@ -1,0 +1,6 @@
+5
+Joke A
+Joke B
+Joke C
+Joke D
+Joke E
